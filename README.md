@@ -20,7 +20,7 @@
 </div>
 
 ## 🚀 Quick Start
-1. Download [main.cpp](main.cpp)
+1. Download [PacMan.cpp](PacMan.cpp)
 2. Compile & run:
    ```bash
    g++ main.cpp -o pacman
